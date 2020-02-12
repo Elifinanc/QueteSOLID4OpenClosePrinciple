@@ -1,0 +1,1 @@
+# QueteSOLID4OpenClosePrinciple
